@@ -1,0 +1,46 @@
+# Build directories
+build/
+.qt/
+
+# IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Qt
+*.qmlc
+*.jsc
+*.autosave
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+nul
+
+# Test files (optional)
+test_*.cpp
+test_*.bat
+test_*.qml
+crash_log.txt
+test_output.txt
+app_output.txt

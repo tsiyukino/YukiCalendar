@@ -1,0 +1,34 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <!-- Main -->
+        <file>qml/main.qml</file>
+
+        <!-- Views -->
+        <file>qml/views/CalendarPage.qml</file>
+        <file>qml/views/ModulesPage.qml</file>
+        <file>qml/views/TypesPage.qml</file>
+        <file>qml/views/TestingPage.qml</file>
+
+        <!-- Components -->
+        <file>qml/components/CalendarHeader.qml</file>
+        <file>qml/components/WeekView.qml</file>
+        <file>qml/components/EventCard.qml</file>
+        <file>qml/components/EventDialog.qml</file>
+        <file>qml/components/TimeGridEvent.qml</file>
+        <file>qml/components/RecurrenceDialog.qml</file>
+        <file>qml/components/DayHeader.qml</file>
+        <file>qml/components/TimeLabel.qml</file>
+        <file>qml/components/NavButton.qml</file>
+
+        <!-- Animations -->
+        <file>qml/animations/SlideTransition.qml</file>
+        <file>qml/animations/RippleEffect.qml</file>
+
+        <!-- Theme -->
+        <file>qml/theme/qmldir</file>
+        <file>qml/theme/Theme.qml</file>
+        <file>qml/theme/Colors.qml</file>
+        <file>qml/theme/Typography.qml</file>
+    </qresource>
+</RCC>
